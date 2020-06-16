@@ -1,0 +1,24 @@
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.exe
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.deps.json
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.runtimeconfig.json
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.runtimeconfig.dev.json
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.dll
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.pdb
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.csprojAssemblyReference.cache
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.AssemblyInfoInputs.cache
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.AssemblyInfo.cs
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.dll
+D:\Ucheba\Labs\2 sem\Cshlab4\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.pdb
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.exe
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.deps.json
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.runtimeconfig.json
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.runtimeconfig.dev.json
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.dll
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\bin\Debug\netcoreapp3.1\MyKeyLogger.pdb
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.csprojAssemblyReference.cache
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.AssemblyInfoInputs.cache
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.AssemblyInfo.cs
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.dll
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.pdb
+C:\Users\TIMMI\Desktop\Csh_lab4-master\MyKeyLogger\MyKeyLogger\obj\Debug\netcoreapp3.1\MyKeyLogger.genruntimeconfig.cache
